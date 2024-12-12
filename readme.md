@@ -7,7 +7,7 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
   
 ## specifications
 
-microcontroller:
+microcontroller: esp-32 devkit v1
 
 motors: 
 
